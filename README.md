@@ -7,7 +7,7 @@ End-to-end funnel analysis project using Power BI to identify conversion bottlen
 
 **Achievement**
 
-> Developed a funnel optimization strategy targeting an estimated **8.5% uplift in purchases** through regional drop-off reduction and conversion-rate improvement.
+Developed a funnel optimization strategy targeting an estimated **8.5% uplift in purchases** through regional drop-off reduction and conversion-rate improvement.
 
 ### Supporting Analysis
 
@@ -25,7 +25,7 @@ Implement targeted regional marketing initiatives and investigate customer behav
 
 **Achievement**
 
-> Developed a checkout optimization strategy focused on reducing funnel leakage by improving payment accessibility and lowering shipping-related purchase barriers.
+Developed a checkout optimization strategy focused on reducing funnel leakage by improving payment accessibility and lowering shipping-related purchase barriers.
 
 ### Supporting Analysis
 
@@ -48,7 +48,7 @@ Improve payment accessibility through additional payment methods, enhance paymen
 
 **Achievement**
 
-> Quantified a potential **2.5% uplift in purchases** and **1% increase in revenue** through cross-channel conversion optimization.
+Quantified a potential **2.5% uplift in purchases** and **1% increase in revenue** through cross-channel conversion optimization.
 
 ### Supporting Analysis
 
